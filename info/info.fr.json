@@ -1,0 +1,11 @@
+{
+   "description" : "Température en degrées celsius",
+   "name" : "Température",
+   "tags" : [
+      "sensors",
+      "temp",
+      "ds18b20",
+      "temperature"
+   ],
+   "type" : "sensors"
+}
